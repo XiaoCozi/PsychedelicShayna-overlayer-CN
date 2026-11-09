@@ -1,0 +1,7 @@
+*.user
+*release
+.vscode
+builds
+*compile_commands.json
+.cache
+build/
