@@ -5,3 +5,4 @@ builds
 *compile_commands.json
 .cache
 build/
+aqtinstall.log
